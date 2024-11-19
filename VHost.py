@@ -28,11 +28,11 @@ class App:
         # 在这个Frame中创建可点击的label
         self.label1 = tk.Label(self.frame, text="获取Figma Host", fg="#14D6B3", cursor="hand2")
         self.label1.grid(row=0, column=0, padx=20)
-        self.label1.bind("<Button-1>", lambda e: self.fetch_text('https://ghp.ci/https://gist.githubusercontent.com/winskymobile/2a36a953425e75d30d7a5cdd82fe0c0b/raw/figma-host.txt'))
+        self.label1.bind("<Button-1>", lambda e: self.fetch_text('https://ghp.ci/https://raw.githubusercontent.com/winskymobile/VHost/refs/heads/main/host/figma-host.txt'))
 
         self.label2 = tk.Label(self.frame, text="获取Adobe Host", fg="#14D6B3", cursor="hand2")
         self.label2.grid(row=0, column=1, padx=20)
-        self.label2.bind("<Button-1>", lambda e: self.fetch_text('https://ghp.ci/https://gist.githubusercontent.com/winskymobile/59deede094f0c5ea816bde547098f1be/raw/adboe-host.txt'))
+        self.label2.bind("<Button-1>", lambda e: self.fetch_text('https://ghp.ci/https://raw.githubusercontent.com/winskymobile/VHost/refs/heads/main/host/adboe-host.txt'))
         # 创建按钮
         self.button_replace = tk.Button(root, text="更新Host", command=self.replace_hosts)
         self.button_replace.grid(row=3, column=0, pady=10)
