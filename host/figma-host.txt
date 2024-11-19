@@ -1,7 +1,7 @@
 以下Host用来优化Figma网络速度
 
-52.84.229.121 s3-alpha-sig.figma.com
-13.33.88.13 www.figma.com
-18.155.68.87 static.figma.com
+54.230.71.38 s3-alpha-sig.figma.com
+13.35.186.35 www.figma.com
+13.33.183.22 static.figma.com
 
-程序只会替换有效Host条目 -- 2024年6月24日更新 --
+程序只会替换有效Host条目 -- 2024年11月19日更新 --
