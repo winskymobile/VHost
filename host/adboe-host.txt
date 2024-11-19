@@ -1,0 +1,35 @@
+以下Host用来屏蔽弹出盗版窗口使用
+程序只会替换有效Host条目 -- 2024年11月4日更新 --
+
+127.0.0.1 adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 5amul9liob.adobestats.io
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 lcs-robs.adobe.io
+127.0.0.1 lcs-cops.adobe.io
+127.0.0.1 crs.cr.adobe.com
+127.0.0.1 36ai1uk1z7.adobestats.io
+127.0.0.1 cctypekit.adobe.io
+127.0.0.1 guzg78logz.adobe.io
+127.0.0.1 1hzopx6nz7.adobe.io
+127.0.0.1 ij0gdyrfka.adobe.io
+127.0.0.1 7sj9n87sls.adobe.io
+127.0.0.1 b5kbg2ggog.adobe.io
+127.0.0.1 dxyeyf6ecy.adobe.io
+127.0.0.1 1hzopx6nz7.adobe.io
+127.0.0.1 4vzokhpsbs.adobe.io
+127.0.0.1 69tu0xswvq.adobe.io
+127.0.0.1 5zgzzv92gn.adobe.io
+127.0.0.1 dyzt55url8.adobe.io
+127.0.0.1 gw8gfjbs05.adobe.io
+127.0.0.1 1b9khekel6.adobe.io
+127.0.0.1 9ngulmtgqi.adobe.io
+127.0.0.1 fqaq3pq1o9.adobe.io
+127.0.0.1 lre1kgz2u4.adobe.io
+127.0.0.1 4u4udfpb9h.adobe.io
+127.0.0.1 p0bjuoe16a.adobe.io
+127.0.0.1 aoorovjtha.adobe.io
+127.0.0.1 3d3wqt96ht.adobe.io
+127.0.0.1 pojvrj7ho5.adobe.io
+127.0.0.1 0mo5a70cqa.adobe.io
+127.0.0.1 m59b4msyph.adobe.io
