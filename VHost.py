@@ -5,7 +5,7 @@ from tkinter import messagebox
 import requests
 import re  # 导入正则表达式模块
 
-__version__ = '1.0.1'  # 版本号
+__version__ = '1.0.4'  # 版本号
 
 class App:
     def __init__(self, root):
