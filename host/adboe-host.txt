@@ -1,5 +1,5 @@
 以下Host用来屏蔽弹出盗版窗口使用
-程序只会替换有效Host条目 -- 2024年11月4日更新 --
+程序只会替换有效Host条目 -- 2024年11月25日更新 --
 
 127.0.0.1 adobe.io
 127.0.0.1 ic.adobe.io
@@ -33,3 +33,4 @@
 127.0.0.1 pojvrj7ho5.adobe.io
 127.0.0.1 0mo5a70cqa.adobe.io
 127.0.0.1 m59b4msyph.adobe.io
+127.0.0.1 7g2gzgk9g1.adobe.io
