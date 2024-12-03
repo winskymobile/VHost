@@ -6,16 +6,16 @@
 <li>💻 <strong>macOS 专用</strong>：修改 Host 以优化 Figma 网络速度以及屏蔽 Adobe 弹出盗版窗口</li>
 <li>🔄 <strong>优化 Figma 网络速度</strong>
 <ul>
-<li>一键获取 figma 优化 host：用于提升 Figma 文件加载速度</li>
+<li>一键获取 figma 优化 host ：用于提升 Figma 文件加载速度</li>
 </ul>
 </li>
 <li>🌈 <strong>屏蔽 Adobe 弹出盗版窗口</strong>
 <ul>
 <li></li>
-<li>一键获取 Adob e相关 host：屏蔽弹出的对话框导致软件不可用的情况</li>
+<li>一键获取 Adobe 相关 host ：屏蔽弹出的对话框导致软件不可用的情况</li>
 </ul>
 </li>
-<li>🔒 <strong>安全可靠</strong>：不会修改系统内部其他Host条目</li>
+<li>🔒 <strong>安全可靠</strong>：不会修改系统内部其他 Host 条目</li>
 </ul>
 <h2>📦 版本信息</h2>
 <p><img src="https://img.shields.io/badge/version-v1.0.4-blue" alt="Version">
@@ -35,9 +35,9 @@
 <h2>🎬 使用教程</h2>
 <ol>
 <li>启动 VHost 应用</li>
-<li>选择"获取 Figma Host"或"获取 Adobe Host"</li>
+<li>选择" 获取 Figma Host " 或 " 获取 Adobe Host "</li>
 <li>预览获取的 Host 信息</li>
-<li>点击"更新 Host"按钮</li>
+<li>点击" 更新 Host "按钮</li>
 <li>输入管理员密码完成更新</li>
 </ol>
 <h2>⚠️ 注意事项</h2>
